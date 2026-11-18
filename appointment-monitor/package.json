@@ -1,0 +1,11 @@
+{
+  "name": "den-haag-appointment-monitor",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node monitor.js"
+  },
+  "dependencies": {
+    "playwright": "^1.58.0"
+  }
+}
